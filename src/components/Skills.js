@@ -12,9 +12,7 @@ export default function Skills() {
               Skills &amp; Technologies
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-              ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-              possimus est.
+           I have worked with a lot of tools and technologies during my Professional and Acadamic career. Ranging from Object Oriented Programming to Data Structures & Algorithms, Databases and Web Development. Below are the skills & tools that I use frequently and feel myself confident around them.   
             </p>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

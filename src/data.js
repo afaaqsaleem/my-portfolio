@@ -36,25 +36,29 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "I am happy to have the chance of working with Afaaq Saleem during my time at Evolve Innovative Solutions. He is an excellent developer with abilities to develop and test high quality Software applications. Afaaq is an active listener to the details, feedback and takes suggestions constructively that results in the healthy contribution to the team collaboration. I am confident that he will be a great addition to any organization and I endorse him as a Frontend Developer.",
+    image: "./Safyan.jpg",
+    name: "Muhammad Safyan Mehar",
+    company: "Intraguard Limited",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "I have worked directly with Afaaq, he is highly skilled Software Developer and a team player. He always show's full dedication and independance in fulfilling the tasks assigned to him with the atmost quality. I believe that his strength is the eagerness to learn and taking new challenge as an oportunity to learn new skills. I am highly delighted to work with Afaaq and always recommend him to any organization.",
+    image: "./Mubeen.jpg",
+    name: "Mubeen Tariq",
+    company: "Trapeze Group",
   },
 ];
 
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "TypeScript",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "CSS",
+  "Tailwind CSS",
+  "HTML",
+  "Git",
+  "CI/CD",
+  "Agile Development"
 ];
